@@ -1,6 +1,6 @@
 package isap.vstu.by;
 
-import static org.junit.assertTrue;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
