@@ -1,7 +1,0 @@
-*.iml
-.idea
-*.class
-
-# Package Files #
-*.war
-*.ear
